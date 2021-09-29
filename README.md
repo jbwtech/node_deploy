@@ -6,6 +6,4 @@ Another change
 Testing the CircleCI Install
 Checking on the local remote
 Another new line for testing
-One final github test
-Adding a line for heroku push test.
-Another new line
+GitHub jbwtech/node_deploy
